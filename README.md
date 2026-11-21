@@ -27,8 +27,6 @@ A low-cost, wearable indoor positioning system built from commodity ESP modules 
 10. [Results and limitations](#results-and-limitations)
 11. [Troubleshooting](#troubleshooting)
 12. [Future work](#future-work)
-13. [License and author](#license-and-author)
-
 ---
 
 ## What it does
