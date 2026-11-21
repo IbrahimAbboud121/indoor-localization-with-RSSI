@@ -8,7 +8,7 @@ A low-cost, wearable indoor positioning system built from commodity ESP modules 
 
 ## Demo video
 
-> ▶ Click  to watch the demo on YouTube: `[https://www.youtube.com/watch?v=VIDEO_ID`](https://youtu.be/-a5GHjzIo-0)
+> ▶ Click  to watch the demo on YouTube: [`[https://www.youtube.com/watch?v=VIDEO_ID`](https://youtu.be/-a5GHjzIo-0)](https://youtu.be/-a5GHjzIo-0)
 
 *(Suggested content for the video: boot and sensor calibration → pressing the button at position 1 → walking between positions → the GUI marker moving and the heading arrow turning.)*
 
@@ -283,7 +283,6 @@ What this means:
 - **Positions, not coordinates.** This is a classifier over a few marked spots, not a continuous tracker.
 - The heading is tilt-uncompensated, so the tag must be held flat.
 
-Demo accuracy: **[add your walk-test result here, e.g. "correct position in X of Y moves"]**.
 
 ---
 
