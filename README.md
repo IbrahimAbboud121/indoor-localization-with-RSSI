@@ -312,7 +312,3 @@ Demo accuracy: **[add your walk-test result here, e.g. "correct position in X of
 - Record fingerprints in several sessions and average them to reduce session drift.
 - Extend from a few positions to continuous (x, y) tracking with more anchors and step-based dead reckoning.
 
-
-Author: **[Your name]** · [LinkedIn / email]
-
-Personal project, [Month Year] – [Month Year].
