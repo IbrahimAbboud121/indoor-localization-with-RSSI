@@ -10,8 +10,6 @@ A low-cost, wearable indoor positioning system built from commodity ESP modules 
 
 > ▶ Click  to watch the demo on YouTube: [`[https://www.youtube.com/watch?v=VIDEO_ID`](https://youtu.be/-a5GHjzIo-0)](https://youtu.be/-a5GHjzIo-0)
 
-*(Suggested content for the video: boot and sensor calibration → pressing the button at position 1 → walking between positions → the GUI marker moving and the heading arrow turning.)*
-
 
 ## Table of contents
 
