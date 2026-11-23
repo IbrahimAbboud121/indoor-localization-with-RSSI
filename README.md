@@ -86,6 +86,7 @@ The tag's ESP32 is a WiFi SoftAP on the **same channel** as the anchors (channel
 | STM32 → tag ESP32 | STM32 USART1 TX (PA9) → ESP32 GPIO 16 (RX2), common GND, 3.3 V logic |
 | Tag button | ESP32 GPIO 18 → GND (internal pull-up) |
 | Redo button (calibration only, optional) | ESP32 GPIO 26 → GND |
+<img width="151" height="196" alt="image" src="https://github.com/user-attachments/assets/f603e096-cdd4-48bf-b6c6-36e77e6ed055" />
 
 ### Room and placement
 
